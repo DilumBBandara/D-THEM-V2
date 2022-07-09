@@ -22,12 +22,12 @@ bash them.sh
 
 mv $HOME/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
 
-cd D-THEM-V2
+🥏 Now you will be asked some questions, choose as you like.
+
 bash them.sh
 
 ⚜ Now enter number 3.
 
-cd D-THEM-V2
 bash them.sh
 
 ⚜ Now enter number 4.
