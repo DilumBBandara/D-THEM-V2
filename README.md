@@ -26,5 +26,10 @@ cd D-THEM-V2
 bash them.sh
 
 ⚜ Now enter number 3.
+
+cd D-THEM-V2
+bash them.sh
+
+⚜ Now enter number 4.
 ```
 </details>
