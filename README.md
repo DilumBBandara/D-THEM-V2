@@ -22,6 +22,7 @@ bash them.sh
 
 mv $HOME/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
 
+🧩 Open new session on termux.
 🥏 Now you will be asked some questions, choose as you like.
 
 bash them.sh
